@@ -9,7 +9,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 📫 My Online Profile: http://alicejowsey.com/
-- 🔭 🌱 I’m currently learning and working on CSS Sass Flexbox Grid | AWS | JS Algorythms & Data Structures
+- 🔭 🌱 I’m currently learning and working on CSS Sass Flexbox Grid | AWS | JS algorithms & Data Structures
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with finding work tips!
 - 💬 Ask me about my time at EDA Wellington Bootcamp during lockdown 2020!
