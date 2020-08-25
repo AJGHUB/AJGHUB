@@ -6,7 +6,8 @@
 </div>
 
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Nga mihi nui, hi folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 - 📫 My Online Profile: http://alicejowsey.com/
 - 🔭 🌱 I’m currently learning and working on CSS Sass Flexbox Grid | AWS | JS algorithms & Data Structures
@@ -16,7 +17,7 @@
 - ⚡ Fun fact: The blob of toothpaste that sits on your toothbrush has a name > It's called a "nurdle." 
 
 
-- 🔭 
+🔭 Projects; 
 ### The IT Crowd; https://nameless-falls-53701.herokuapp.com/
 ### Ghibli Films w API https://ghibli-sozo-ryoku.herokuapp.com/
 ### PlantHeads https://plantheads.herokuapp.com/#/
