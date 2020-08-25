@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**AJGHUB/AJGHUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📫 My Online Profile: http://alicejowsey.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 🌱 I’m currently learning and working on CSS Sass Flexbox Grid | AWS | JS Algorythms & Data Structures
+
+- 👯 I’m looking to collaborate on open source projects
+
+- 🤔 I’m looking for help with finding work tips!
+
+- 💬 Ask me about my time at EDA Wellington Bootcamp during lockdown 2020!
+
+- ⚡ Fun fact: The blob of toothpaste that sits on your toothbrush has a name > It's called a "nurdle."
+ 
